@@ -4,6 +4,10 @@
 <!-- ![image](https://github.com/AdrianoX/AdrianoX/blob/main/dino.gif) -->
 <p align='center'>
   <br><img src="https://github.com/AdrianoX/AdrianoX/blob/main/Developer.gif" width="450px"><br><br>
+
+##
+
+  <img src="https://i.postimg.cc/Jn1NPgJr/b0de94-927ed1098a704e8d9f87c12412fbd1ba-mv2.png" alt="AdrianoX GitHub">
 <br>
 </p>
 
