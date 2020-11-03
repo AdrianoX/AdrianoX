@@ -35,19 +35,19 @@
 </a>
 
 <a href="https://github.com/AdrianoX/MyDrugs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=MyDrugs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AdrianoX/-Administration-panel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=-Administration-panel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
 <a href="https://github.com/AdrianoX/WDP-2006-01-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=WDP-2006-01-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/AdrianoX/Client-Book-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=Client-Book-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 
