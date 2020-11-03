@@ -30,6 +30,28 @@
 <a href="https://github.com/AdrianoX/AdrianoX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/AdrianoX/AdrianoX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AdrianoX GitHub Stats" />
+</a>
+
+<a href="https://github.com/AdrianoX/MyDrugs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AdrianoX/-Administration-panel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+<a href="https://github.com/AdrianoX/WDP-2006-01-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/AdrianoX/Client-Book-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+
+Client-Book-App
 
 <!--
 **AdrianoX/AdrianoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
