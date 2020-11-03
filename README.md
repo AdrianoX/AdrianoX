@@ -28,7 +28,7 @@
 ---
 
 <a href="https://github.com/AdrianoX/AdrianoX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs-3/?username=AdrianoX&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=handlebars,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/AdrianoX/AdrianoX">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AdrianoX GitHub Stats" />
