@@ -7,7 +7,7 @@
 
 <br>
 
-### Languages and Tools:
+## 🔧 Technologies & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,16 +30,20 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AdrianoX/AdrianoX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AdrianoX GitHub Stats" />
-</a>
-<a href="https://github.com/AdrianoX/AdrianoX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=handlebars,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<a href="https://github.com/AdrianoX/AdrianoX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AdrianoX GitHub Stats" />
+</a>
 
 <a href="https://github.com/AdrianoX/MyDrugs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=MyDrugs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/AdrianoX/Client-Book-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=Client-Book-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 
 <a href="https://github.com/AdrianoX/-Administration-panel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=-Administration-panel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -48,12 +52,6 @@
 <a href="https://github.com/AdrianoX/WDP-2006-01-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=WDP-2006-01-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-
-<a href="https://github.com/AdrianoX/Client-Book-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=Client-Book-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-
 
 <!--
 **AdrianoX/AdrianoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
