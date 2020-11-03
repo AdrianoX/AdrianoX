@@ -28,7 +28,8 @@
 ---
 
 <p float="center">
-<a> <img src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
+<!-- <a> <img src="https://github-readme-stats.vercel.app/api?username=AdrianoX&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a> -->
+
 <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&layout=compact&theme=tokyonight"/></a>
 </p>
 
