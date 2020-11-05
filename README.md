@@ -45,7 +45,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AdrianoX/AdrianoX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=handlebars,html&title_color=1E90FF&text_color=1E90FF&icon_color=2bbc8a&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=handlebars,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AdrianoX/AdrianoX">
@@ -83,6 +83,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <a href="https://github.com/AdrianoX/AdrianoX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoX&hide=handlebars,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
