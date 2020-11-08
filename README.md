@@ -37,7 +37,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
 <br>
 
 ##
@@ -68,4 +67,3 @@
 <a href="https://github.com/AdrianoX/WDP-2006-01-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianoX&repo=WDP-2006-01-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-
